@@ -3,7 +3,7 @@
 <p><strong>PROJECT OVERVIEW</strong></p>
 This project is a Website with a Modal Window using HTML, CSS and JavaScript. It provides a sleek and accessible pop-up window that enhances user experience. The modal can be used for alerts, notifications, or interactive content while keeping the design clean and professional.
 <br><br>
-<p><strong>Learning Objective:</strong> The objective of this project is to strengthen my HTML and CSS skills by implementing a modal window using pure CSS techniques. This project helps me practice layout structuring, styling overlays, and creating smooth transitions while ensuring accessibility.</p>
+<p><strong>Learning Objective:</strong> The objective of this project is to strengthen my HTML, CSS and JavaScript skills by implementing a modal window using pure CSS techniques. This project helps me practice layout structuring, styling overlays, and creating smooth transitions while ensuring accessibility.</p>
 <br>
 <p><strong>FEATURES</strong></p>
 <ul>
@@ -16,10 +16,10 @@ This project is a Website with a Modal Window using HTML, CSS and JavaScript. It
 <ul>
   <li>HTML – Structure for the modal and overlay</li>
   <li>CSS – Styling, positioning, and hover effects</li>
+  <li>JavaScript – To open the modal window</li>
 </ul>
 <p><strong>FUTURE IMPROVEMENTS</strong></p>
 <ul>
-  <li>Add JavaScript for enhanced interactivity</li>
   <li>Improve accessibility with ARIA attributes</li>
   <li>Implement multiple modal variations</li>
 </ul>
