@@ -17,3 +17,9 @@ This project is a Modal Window UI built using HTML and CSS. It provides a sleek 
   <li>HTML – Structure for the modal and overlay</li>
   <li>CSS – Styling, positioning, and hover effects</li>
 </ul>
+<p><strong>FUTURE IMPROVEMENTS</strong></p>
+<ul>
+  <li>Add JavaScript for enhanced interactivity</li>
+  <li>Improve accessibility with ARIA attributes</li>
+  <li>Implement multiple modal variations</li>
+</ul>
