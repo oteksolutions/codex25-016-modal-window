@@ -1,0 +1,13 @@
+/* THE HUMAN BEHIND THIS WEBSITE */
+    
+    Name: Ken Ekweme
+    Title: Web Developer, UI/UX Designer, Digital Marketing Specialist
+    Company: OTek Solutions
+    Website: https://oteksolutions.net
+    Contact: info [at] oteksolutions.net
+    LinkedIn: https://linkedin.com/in/ekweme-ken
+    GitHub: https://github.com/oteksolutions
+    Location: Montreal, Canada
+    
+
+    Feel free to reach out if you have questions or feedback!
