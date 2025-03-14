@@ -23,3 +23,7 @@ This project is a Modal Window UI built using HTML and CSS. It provides a sleek 
   <li>Improve accessibility with ARIA attributes</li>
   <li>Implement multiple modal variations</li>
 </ul>
+<br>
+<footer>
+    <p>&copy; 2025 <a href="https://www.linkedin.com/in/ekweme-ken" target="_blank">Ken Ekweme</a> &#8226; <a href="https://www.oteksolutions.net" target="_blank">OTek Solutions</a></p>
+</footer>
