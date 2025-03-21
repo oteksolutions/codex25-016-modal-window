@@ -25,5 +25,5 @@ This project is a Website with a Modal Window using HTML, CSS and JavaScript. It
 </ul>
 <br>
 <footer>
-    <p>&copy; 2025 <a href="https://www.linkedin.com/in/ekweme-ken" target="_blank">Ken Ekweme</a> &#8226; <a href="https://www.oteksolutions.net" target="_blank">OTek Solutions</a></p>
+    <p>&copy; 2025 <a href="https://www.linkedin.com/in/ekweme-ken" target="_blank">Ken Ekweme</a> &#8226; &bull <a href="https://www.oteksolutions.net" target="_blank">OTek Solutions</a></p>
 </footer>
