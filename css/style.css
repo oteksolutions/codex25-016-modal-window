@@ -179,20 +179,34 @@ main {
     margin: 0;
     padding: 0;
   }
-
-.developer-footer {
+  
+  .developer-footer {
     background: #2c3e50;
     color: #bdc3c7;
     padding: 0.5rem;
     text-align: center;
     font-size: 0.8rem;
-}
-
-.developer-footer a {
+    margin-top: auto;
+  }
+  
+  .developer-footer a, p {
     color: #bdc3c7;
     text-decoration: none;
-}
+  }
+  
+  .developer-footer a:hover {
+    color: #007bff;
+    text-decoration: underline;
+  }
 
+  .developer-footer a:active {
+    color: #FF4D00;
+  }
+
+  a[href*="humans"]{
+    cursor: help;
+  }
+ 
 /* Modal Styles */
 .modal {
     display: none;
