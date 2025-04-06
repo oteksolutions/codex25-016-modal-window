@@ -125,6 +125,7 @@ main {
 	padding: 2rem;
 	margin-bottom: 2rem;
 	border-radius: 4px;
+	
 }
 
 .card h2 {
@@ -132,9 +133,10 @@ main {
 	color: #333;
 }
 
-.card p {
-	color: #666;
+.card ul li {
+	color: #333;
 	line-height: 1.6;
+	list-style-type: disc;
 }
 
 /* Main Footer */
