@@ -260,83 +260,83 @@ a[href*="humans"]{
 
 /* Responsive Styles */
 @media screen and (max-width: 1024px) {
-    .nav-links {
-        width: 60%;
-    }
+	.nav-links {
+			width: 60%;
+	}
     
-    .footer-content {
-        width: 95%;
-    }
+	.footer-content {
+			width: 95%;
+	}
 }
 
 @media screen and (max-width: 768px) {
-    body {
-        overflow-x: hidden;
-    }
+	body {
+		overflow-x: hidden;
+	}
+	
+	.nav-links {
+		position: absolute;
+		right: 0;
+		height: 92vh;
+		top: 8vh;
+		background-color: white;
+		display: flex;
+		flex-direction: column;
+		align-items: center;
+		width: 50%;
+		transform: translateX(100%);
+		transition: transform 0.5s ease-in;
+		z-index: 100;
+		box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
+	}
+	
+	.nav-links li {
+		opacity: 0;
+		margin: 1.5rem 0;
+	}
     
-    .nav-links {
-        position: absolute;
-        right: 0;
-        height: 92vh;
-        top: 8vh;
-        background-color: white;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        width: 50%;
-        transform: translateX(100%);
-        transition: transform 0.5s ease-in;
-        z-index: 100;
-        box-shadow: -2px 0 5px rgba(0, 0, 0, 0.1);
-    }
-    
-    .nav-links li {
-        opacity: 0;
-        margin: 1.5rem 0;
-    }
-    
-    .burger {
-        display: block;
-    }
-    
-    .card {
-        flex-basis: 100%;
-    }
-    
-    .footer-section {
-        flex-basis: 100%;
-    }
-    
-    .modal-content {
-        width: 95%;
-    }
+	.burger {
+		display: block;
+	}
+	
+	.card {
+		flex-basis: 100%;
+	}
+	
+	.footer-section {
+		flex-basis: 100%;
+	}
+	
+	.modal-content {
+		width: 95%;
+	}
 }
 
-.nav-active {
-    transform: translateX(0%);
-}
+	.nav-active {
+		transform: translateX(0%);
+	}
 
 /* Animation for mobile menu items */
 @keyframes navLinkFade {
-    from {
-        opacity: 0;
-        transform: translateX(50px);
-    }
-    to {
-        opacity: 1;
-        transform: translateX(0);
-    }
+	from {
+		opacity: 0;
+		transform: translateX(50px);
+	}
+	to {
+		opacity: 1;
+		transform: translateX(0);
+	}
 }
 
 /* Burger animation */
-.toggle .line1 {
+	.toggle .line1 {
     transform: rotate(-45deg) translate(-5px, 6px);
-}
+	}
 
-.toggle .line2 {
+	.toggle .line2 {
     opacity: 0;
-}
+	}
 
-.toggle .line3 {
+	.toggle .line3 {
     transform: rotate(45deg) translate(-5px, -6px);
-}
+	}
