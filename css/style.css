@@ -92,7 +92,7 @@ main {
 
 .hero p {
     margin-bottom: 2rem;
-    color: #666;
+    color: #000000;
 }
 
 #modal-btn {
@@ -191,18 +191,18 @@ main {
 	background-color: #2c3e50;
 	padding: 0.5rem;
 }
-  
+
 .developer-footer a, p {
 	color: #bdc3c7;
 	font-size: 0.8rem;
 	text-decoration: none;
 }
-  
+
 .developer-footer a:hover {
 	color: #007bff;
 	text-decoration: underline;
 }
-  
+
 .developer-footer a:active {
 	color: #FF4D00;
 }
@@ -233,6 +233,15 @@ a[href*="humans"]{
 	max-width: 500px;
 	position: relative;
 }
+
+.modal-content h2 {
+    color: #FF4D00;
+}
+.modal-content p {
+    color: #000000;
+    padding-top: 1rem;
+}
+
 
 .close-btn {
 	position: absolute;
